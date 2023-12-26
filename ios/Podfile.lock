@@ -958,7 +958,7 @@ SPEC CHECKSUMS:
   Ads-Global: 7c5d6b7ad9ad8b986b9f7cc88c2bf7a3f9871de0
   AppLovinMediationByteDanceAdapter: 55198fa100353e1a9c62eface840bb6316902969
   AppLovinMediationFacebookAdapter: f70e731ddb976feb6b74fa3cf98d7296e0bd085a
-  AppLovinMediationUnityAdsAdapter: b909a5f12ec2c3ba1316bd60d63a8911495c4db2
+  AppLovinMediationUnityAdsAdapter: d500e918451e0d1b6ba39125144e05a7aff5f53f
   AppLovinMediationVungleAdapter: 495a6a662cde25920e72da4357026a79491a0242
   AppLovinSDK: 179d509c258e01a3a77eb8416f0ba843a12ed322
   AppsFlyerFramework: 6eb4d89d2eb9a6632317f1055b359d9fd85fd5ff
@@ -1049,7 +1049,7 @@ SPEC CHECKSUMS:
   RNSVG: 53c661b76829783cdaf9b7a57258f3d3b4c28315
   SocketRocket: f32cd54efbe0f095c4d7594881e52619cfe80b17
   TikTokBusinessSDK: e54091f4c40fb8af3b0e6a0e403acc3de7f2b868
-  UnityAds: 358547edbd4c923cd03462289b8813d0ef91999e
+  UnityAds: 6fa6b68b831706c9761dcd97555dd60b03e3254b
   VungleAds: 85eb3468e8a6dfcf86f2b2e7891181df426c0433
   Yoga: b76f1acfda8212aa16b7e26bcce3983230c82603
 

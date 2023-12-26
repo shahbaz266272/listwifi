@@ -26,7 +26,7 @@ WKUIDelegate, WKNavigationDelegate {
    [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
       let oneSignalToken = "cef1c226-f645-4041-a96f-0a1634c4f016"
-      let appLovinKey = "your_appLovin_Key_here"
+      let appLovinKey = "gvcyZqhgCmHnI7I-DHWLXoVhQkrqbHzcltIZAATT0RH-cWpBip16xde9wnuZq-I0CTLsqKAoe6z7U_6TdF12bx"
       let bannerID = "365be7706f0a9f1a"
       let interestialID = "ye4c4b57553cacc01"
       let rewardedID = "d47e1e9e42e1fa5a"

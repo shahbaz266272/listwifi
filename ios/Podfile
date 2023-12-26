@@ -46,7 +46,7 @@ target 'listwifi' do
 pod 'MobFlowiOS', :git => 'https://github.com/MASDKManager/MobFlowSwift.git',
 :tag => '3.0.6'
 
-    pod 'Firebase'
+  pod 'Firebase'
   pod 'Firebase/Analytics'
   pod 'Firebase/Auth'
   pod 'Firebase/CoreOnly'
