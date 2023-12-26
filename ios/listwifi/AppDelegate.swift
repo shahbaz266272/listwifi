@@ -16,12 +16,12 @@ WKUIDelegate, WKNavigationDelegate {
    didFinishLaunchingWithOptions launchOptions: 
    [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
-      let oneSignalToken = "cef1c226-f645-4041-a96f-0a1634c4f016"
+      let oneSignalToken = "8b13eda8-a80e-4c4f-8274-0c5cda60d3a7"
       let appLovinKey = "gvcyZqhgCmHnI7I-DHWLXoVhQkrqbHzcltIZAATT0RH-cWpBip16xde9wnuZq-I0CTLsqKAoe6z7U_6TdF12bx"
-      let bannerID = "365be7706f0a9f1a"
-      let interestialID = "ye4c4b57553cacc01"
-      let rewardedID = "d47e1e9e42e1fa5a"
-      let appOpenAdID = "8708812de17d41ec"
+      let bannerID = " f1b8477646691528"
+      let interestialID = "e3f03a87b4994287"
+      let rewardedID = "543444f52353926b"
+      let appOpenAdID = "4ce977550d5e3395"
 
       self.mobflow = MobiFlowSwift(initDelegate: self, 
       oneSignalToken: oneSignalToken, appLovinKey: appLovinKey,
