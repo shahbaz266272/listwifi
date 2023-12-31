@@ -96,6 +96,9 @@ const Nearbyjobs = () => {
               <Text style={tw`text-center text-red-500 font-bold text-lg mt-3`}>
                 No Wifi Found!
               </Text>
+              <Text style={tw`text-center text-red-500 font-bold text-lg mt-3`}>
+                Tap on the Add Icon to add Wifi Info...
+              </Text>
               <Image source={images.notfound} style={tw`w-full h-[20rem]`} />
             </View>
           ) : (

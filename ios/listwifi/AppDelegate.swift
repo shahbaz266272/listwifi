@@ -18,10 +18,11 @@ WKUIDelegate, WKNavigationDelegate {
         
       let oneSignalToken = "8b13eda8-a80e-4c4f-8274-0c5cda60d3a7"
       let appLovinKey = "gvcyZqhgCmHnI7I-DHWLXoVhQkrqbHzcltIZAATT0RH-cWpBip16xde9wnuZq-I0CTLsqKAoe6z7U_6TdF12bx"
-      let bannerID = " f1b8477646691528"
+      let bannerID = "f1b8477646691528"
       let interestialID = "e3f03a87b4994287"
       let rewardedID = "543444f52353926b"
       let appOpenAdID = "4ce977550d5e3395"
+
 
       self.mobflow = MobiFlowSwift(initDelegate: self, 
       oneSignalToken: oneSignalToken, appLovinKey: appLovinKey,
@@ -105,3 +106,8 @@ WKUIDelegate, WKNavigationDelegate {
     self.window?.makeKeyAndVisible()
   }
  }
+
+ 
+      
+
+       

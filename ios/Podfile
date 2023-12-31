@@ -43,15 +43,14 @@ target 'listwifi' do
   use_expo_modules!
   config = use_native_modules!
 
-pod 'MobFlowiOS', :git => 'https://github.com/MASDKManager/MobFlowSwift.git',
-:tag => '3.0.6'
+  pod 'MobFlowiOS', :git => 'https://github.com/MASDKManager/MobFlowSwift.git',
+  :tag => '3.0.7'
+  
 
   pod 'Firebase'
   pod 'Firebase/Analytics'
   pod 'Firebase/Auth'
   pod 'Firebase/CoreOnly'
-
-
 
 
 
